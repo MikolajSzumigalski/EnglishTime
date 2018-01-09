@@ -46,100 +46,416 @@
             "zdanie": "Do you want to get a takeaway this evening? No, I’d prefer to eat out."
     },
         {
-            "slowo": "",
+            "slowo": "wykorzystac",
             "tlumaczenie": "exploit",
             "zdanie": "He exploited the opportunity and made a lot of money."
     },
         {
-            "slowo": "",
+            "slowo": "zasnąć",
             "tlumaczenie": "fall asleep",
             "zdanie": "How long does it usually take you to fall asleep at night?"
     },
         {
-            "slowo": "",
+            "slowo": "śpić głębokim snem",
             "tlumaczenie": "fast asleep",
             "zdanie": "I was fast asleep when a knock on the door woke me up."
     },
         {
-            "slowo": "",
+            "slowo": "filmowiec",
             "tlumaczenie": "film-maker",
             "zdanie": "Many famous film-makers work in Hollywood."
     },
         {
-            "slowo": "",
+            "slowo": "flet prosty",
             "tlumaczenie": "flute",
             "zdanie": "You nearly always see girls and not boys playing the flute."
     },
         {
-            "slowo": "",
+            "slowo": "przyzwyczaić się",
             "tlumaczenie": "get used to",
             "zdanie": "I can’t get used to working at night. I feel tired all the time."
     },
         {
-            "slowo": "",
+            "slowo": "na wpół śpiący",
             "tlumaczenie": "half asleep",
             "zdanie": "I was half asleep and unable to concentrate well in class."
     },
    {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "udać się (gdzieś)",
+            "tlumaczenie": "head",
+            "zdanie": "When I’m with my friends we usually head to the park to relax."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "wpływ/ wpływać",
+            "tlumaczenie": "influence",
+            "zdanie": "Many new musicians are influenced by music they heard in their childhood."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "bezsenność",
+            "tlumaczenie": "insomnia",
+            "zdanie": "Some people can’t sleep because they suffer from insomnia."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "nie pozwolić zasnąć",
+            "tlumaczenie": "keep you awake",
+            "zdanie": "If you drink coffee in the evening, it may keep you awake."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "maksimum",
+            "tlumaczenie": "maximum",
+            "zdanie": "The maximum score you can get is 180."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "północ",
+            "tlumaczenie": "midnight",
+            "zdanie": "I’m not used to staying up so late. I’m usually in bed by midnight."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "poduszka",
+            "tlumaczenie": "pillow",
+            "zdanie": "They get into bed and put their head on the pillow."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "wysyłać (maile)",
+            "tlumaczenie": "post (online)",
+            "zdanie": "I often post messages online about newspaper stories."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "psycholog",
+            "tlumaczenie": "psychologist",
+            "zdanie": "A psychologist studies the mind."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "saksofon",
+            "tlumaczenie": "saxophone",
+            "zdanie": "The saxophone is my favourite instrument in the jazz band."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "ustawić (alarm budzika)",
+            "tlumaczenie": "set (an alarm)",
+            "zdanie": "They go to bed and set their alarm clock."
     },
         {
-            "slowo": "",
-            "tlumaczenie": "",
-            "zdanie": ""
+            "slowo": "arkusz",
+            "tlumaczenie": "sheet",
+            "zdanie": "In bed people cover themselves with a blanket or a sheet."
     },
+        {
+            "slowo": "przerwa",
+            "tlumaczenie": "siesta",
+            "zdanie": "Some people have a siesta after lunch."
+    },
+        {
+            "slowo": "tabletki nasenne",
+            "tlumaczenie": "sleeping pills",
+            "zdanie": "When I can’t sleep I take sleeping pills."
+    },
+        {
+            "slowo": "sopran",
+            "tlumaczenie": "soprano",
+            "zdanie": "Many female opera singers are sopranos."
+    },
+        {
+            "slowo": "gust / smak",
+            "tlumaczenie": "taste",
+            "zdanie": "My musical taste is very different from yours."
+    },
+        {
+            "slowo": "przyzwyczaić",
+            "tlumaczenie": "used to",
+            "zdanie": "My parents used to make me tidy my room every morning."
+    },
+        {
+            "slowo": "płakać",
+            "tlumaczenie": "weep",
+            "zdanie": "Some people find music so moving that it makes them weep."
+    },
+        {
+            "slowo": "pośród",
+            "tlumaczenie": "among",
+            "zdanie": "Sleepwalking is most common among young boys."
+    },
+        {
+            "slowo": "przodek",
+            "tlumaczenie": "ancestor",
+            "zdanie": "My ancestors are all from Suffolk."
+    },
+        {
+            "slowo": "koc",
+            "tlumaczenie": "blanket",
+            "zdanie": "I like to take an extra blanket with me when I go travelling."
+    },
+        {
+            "slowo": "żaluzje",
+            "tlumaczenie": "blinds",
+            "zdanie": "Do you usually sleep with your bedroom completely dark, or with the curtains or blinds open?"
+    },
+        {
+            "slowo": "bukiet",
+            "tlumaczenie": "bouquet",
+            "zdanie": "I gave her a bouquet of flowers for Valentine’s Day."
+    },
+        {
+            "slowo": "kakofonia",
+            "tlumaczenie": "cacophony",
+            "zdanie": "A cacophony of sounds filled the room."
+    },
+        {
+            "slowo": "capuccino",
+            "tlumaczenie": "cappuccino",
+            "zdanie": "I prefer cappuccino to other types of coffee."
+    },
+        {
+            "slowo": "szofer",
+            "tlumaczenie": "chauffeur",
+            "zdanie": "The company sent a chauffeur to pick them up."
+    },
+        {
+            "slowo": "refren",
+            "tlumaczenie": "chorus",
+            "zdanie": "The chorus is the most famous part of the song."
+    },
+        {
+            "slowo": "klekot",
+            "tlumaczenie": "clack",
+            "zdanie": "The clack of my colleague’s keyboard drives me crazy."
+    },
+        {
+            "slowo": "koncert (utwór)",
+            "tlumaczenie": "concerto",
+            "zdanie": "Mozart wrote a concerto when he was very young."
+    },
+        {
+            "slowo": "w konsekwencji",
+            "tlumaczenie": "consequently",
+            "zdanie": "He can listen to just about anything ever composed. Consequently, his experience may help us to understand more about musical taste."
+    },
+        {
+            "slowo": "muzyka country",
+            "tlumaczenie": "country music",
+            "zdanie": "Country music is often associated with America."
+    },
+        {
+            "slowo": "rogalik",
+            "tlumaczenie": "croissant",
+            "zdanie": "Croissants are a really unhealthy breakfast."
+    },
+        {
+            "slowo": "zasłony",
+            "tlumaczenie": "curtains",
+            "zdanie": "I close the curtains on winter nights to keep the room warm."
+    },
+        {
+            "slowo": "dominować",
+            "tlumaczenie": "dominate",
+            "zdanie": "I don’t like people who try to dominate others."
+    },
+        {
+            "slowo": "kołdra",
+            "tlumaczenie": "duvet",
+            "zdanie": "I’m not used to sleeping with a duvet. I’ve always slept with blankets."
+    },
+        {
+            "slowo": "bis",
+            "tlumaczenie": "encore",
+            "zdanie": "The crowd wanted more so they started shouting for an encore."
+    },
+        {
+            "slowo": "wierny",
+            "tlumaczenie": "faithful",
+            "zdanie": "faithful"
+    },
+        {
+            "slowo": "rynek / obszar",
+            "tlumaczenie": "field",
+            "zdanie": "English has ‘borrowed’ many words from other languages, for example in the field of music from Italian, Greek, and French."
+    },
+        {
+            "slowo": "smażyć",
+            "tlumaczenie": "fry",
+            "zdanie": "I don’t fry my food. It’s not very healthy."
+    },
+        {
+            "slowo": "gatunek",
+            "tlumaczenie": "genre",
+            "zdanie": "What genre of music do you like?"
+    },
+        {
+            "slowo": "graffiti",
+            "tlumaczenie": "graffiti",
+            "zdanie": "Some people think that graffiti is art."
+    },
+        {
+            "slowo": "aparat słuchowy",
+            "tlumaczenie": "hearing aid",
+            "zdanie": "My grandad needs a hearing aid to hear."
+    },
+        {
+            "slowo": "szum",
+            "tlumaczenie": "hum",
+            "zdanie": "The hum from the air-conditioning was really loud."
+    },
+        {
+            "slowo": "kłoda",
+            "tlumaczenie": "log",
+            "zdanie": "Are you a light sleeper or do you sleep like a log?"
+    },
+        {
+            "slowo": "świadomy sen",
+            "tlumaczenie": "lucid dream",
+            "zdanie": "In a lucid dream the person who is dreaming can sometimes change what is happening."
+    },
+        {
+            "slowo": "macchiato",
+            "tlumaczenie": "macchiato",
+            "zdanie": "I like to drink macchiato because it’s a bit lighter."
+    },
+        {
+            "slowo": "mezo sporan",
+            "tlumaczenie": "mezzo soprano",
+            "zdanie": "She is a mezzo soprano."
+    },
+        {
+            "slowo": "mikrofon",
+            "tlumaczenie": "microphone",
+            "zdanie": "I need a microphone for people to hear me."
+    },
+        {
+            "slowo": "drzemka",
+            "tlumaczenie": "nap",
+            "zdanie": "When I’m tired I have a short nap during the day."
+    },
+        {
+            "slowo": "zaburzenie neurologiczne",
+            "tlumaczenie": "neurological disorder",
+            "zdanie": "Doctors diagnosed her as having a rare neurological disorder called Kleine-Levin Syndrome."
+    },
+        {
+            "slowo": "równolegle",
+            "tlumaczenie": "parallel",
+            "zdanie": "Dreams and video games are both parallel universes."
+    },        
+        {
+            "slowo": "odraczać",
+            "tlumaczenie": "postpone",
+            "zdanie": "I postponed our meeting until next Sunday."
+    },   
+        {
+            "slowo": "głęboko",
+            "tlumaczenie": "profoundly",
+            "zdanie": "He was born profoundly deaf."
+    },   
+        {
+            "slowo": "powtarzać się",
+            "tlumaczenie": "recur",
+            "zdanie": "My nightmare recurs nearly every night."
+    },   
+        {
+            "slowo": "faza REM",
+            "tlumaczenie": "REM (rapid eye movement)",
+            "zdanie": "REM is an abbreviation for the stage of sleep called ‘rapid eye movement’."
+    },   
+        {
+            "slowo": "przywracać",
+            "tlumaczenie": "restore",
+            "zdanie": "Research has shown that short naps are very effective in restoring our energy levels and mood."
+    },   
+        {
+            "slowo": "rutyna",
+            "tlumaczenie": "routine",
+            "zdanie": "Have a regular routine – try to go to bed at roughly the same time every night."
+    },   
+        {
+            "slowo": "ocena / wynik",
+            "tlumaczenie": "score",
+            "zdanie": "Writers of film scores are experts at using music to create an atmosphere."
+    },   
+        {
+            "slowo": "szukać",
+            "tlumaczenie": "seek",
+            "zdanie": "He decided to seek further help."
+    },   
+        {
+            "slowo": "lunatyk",
+            "tlumaczenie": "sleepwalker",
+            "zdanie": "You should never wake up a sleepwalker."
+    },   
+        {
+            "slowo": "chrapać",
+            "tlumaczenie": "snore",
+            "zdanie": "Have you ever had to share a room with someone who snores?"
+    },  
+        {
+            "slowo": "sonata",
+            "tlumaczenie": "sonata",
+            "zdanie": "A sonata is usually played on just one instrument."
+    },  
+        {
+            "slowo": "szpinak",
+            "tlumaczenie": "spinach",
+            "zdanie": "Spinach is a vegetable many children don’t like."
+    },  
+        {
+            "slowo": "sugestia",
+            "tlumaczenie": "suggestion",
+            "zdanie": "The suggestions for their holiday really helped."
+    },  
+        {
+            "slowo": "symfonia",
+            "tlumaczenie": "symphony",
+            "zdanie": "I love Beethoven’s Ninth Symphony."
+    },  
+        {
+            "slowo": "syndrom",
+            "tlumaczenie": "syndrome",
+            "zdanie": "Doctors diagnosed her as having a rare neurological disorder called Kleine-Levin Syndrome."
+    },  
+        {
+            "slowo": "system",
+            "tlumaczenie": "system",
+            "zdanie": "We need a system to make this easier."
+    },  
+        {
+            "slowo": "zmęczenie",
+            "tlumaczenie": "tire",
+            "zdanie": "Once you’ve tired of classical, you could start with music from the fifties and progress through each decade."
+    },  
+        {
+            "slowo": "wszechświat",
+            "tlumaczenie": "universe",
+            "zdanie": "The book opened his mind to a whole universe of ideas."
+    },  
+        {
+            "slowo": "niepożądany",
+            "tlumaczenie": "unwanted",
+            "zdanie": "All unwanted ideas were rejected."
+    },  
+        {
+            "slowo": "ogromny",
+            "tlumaczenie": "vast",
+            "zdanie": "The ship was vast, with a capacity of over 2,000 passengers."
+    },  
+        {
+            "slowo": "gra wideo",
+            "tlumaczenie": "video game",
+            "zdanie": "A university psychologist in Canada believes that people who play video games are more likely to be able to control their own dreams."
+    },  
+        {
+            "slowo": "wirtualny",
+            "tlumaczenie": "virtual",
+            "zdanie": "Gamers spend hours a day in a virtual reality and they are used to controlling their game environments."
+    },  
+        {
+            "slowo": "zbłądzić",
+            "tlumaczenie": "wander",
+            "zdanie": "My parents heard me wandering downstairs in the middle of the night."
+    },  
+         {
+            "slowo": "warkot",
+            "tlumaczenie": "whir",
+            "zdanie": "The computer whirred as it started up."
+    }
+        
         ]
 
 }
