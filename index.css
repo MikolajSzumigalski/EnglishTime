@@ -2,3 +2,7 @@
     padding-top: 30px;
     padding-bottom: 10px;
 }
+
+table { 
+    max-width: 800px; 
+}
