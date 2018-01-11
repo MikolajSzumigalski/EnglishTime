@@ -14,5 +14,5 @@ xhr.onload = function() {
     }
 }
 
-xhr.open('GET', 'r7.json', true);
+xhr.open('GET', 'rozdzial7.json', true);
 xhr.send(null);   
