@@ -10,7 +10,7 @@ xhr.onload = function() {
                 var x = Math.floor(Math.random() * slowoObject.dictionary.length);
                 newSlowka += '<tr><td onclick="myFunction('+"'slowo"+i+"'"+ ')">' + slowoObject.dictionary[x].slowo + "</td></tr>";
                 newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'><b>"+ slowoObject.dictionary[x].tlumaczenie + "</b><br/>"; 
-                newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'><b>"+ slowoObject.dictionary[x].zdanie + "</td></tr>";
+                newSlowka += slowoObject.dictionary[x].zdanie + "</td></tr>";
                 slowoObject.dictionary.splice(x, 1);
         }
             newSlowka += '</table>';
@@ -18,5 +18,5 @@ xhr.onload = function() {
     }
 }
 
-xhr.open('GET', 'chap4.json', true);
+xhr.open('GET', 'chap5.json', true);
 xhr.send(null);   
