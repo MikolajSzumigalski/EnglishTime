@@ -446,13 +446,55 @@
             </ol>
             <div class="w3-panel w3-theme-l1 w3-card-4 w3-padding-16">Możemy użyć <b>if only</b> zamiast <b>wish</b> na tych samych zasadach.</div>
         </div>
+        <div id="take" class="w3-container w3-theme-d1 scrollpadding">
+            <h2>Take</h2>
+            <ul class="w3-ul w3-theme-l3 w3-card-4">
+                <li><button onclick="myFunction('take1')" class="w3-block w3-button w3-indigo">opiekować się</button></li>
+                <li id="take1" class="w3-container w3-hide">
+                    <center>take care of</center>
+                </li>
+                <li><button onclick="myFunction('take2')" class="w3-block w3-button w3-indigo">skorzystać z okazji</button></li>
+                <li id="take2" class="w3-container w3-hide">
+                    <center>take advantage of</center>
+                </li>
+                <li><button onclick="myFunction('take3')" class="w3-block w3-button w3-indigo">wziąć udział w</button></li>
+                <li id="take3" class="w3-container w3-hide">
+                    <center>take part in</center>
+                </li>
+                <li><button onclick="myFunction('take4')" class="w3-block w3-button w3-indigo">wydarzyć się</button></li>
+                <li id="take4" class="w3-container w3-hide">
+                    <center>take place</center>
+                </li>
+                <li><button onclick="myFunction('take5')" class="w3-block w3-button w3-indigo">robić coś powoli, bez pośpiechu</button></li>
+                <li id="take5" class="w3-container w3-hide">
+                    <center>take (your) time</center>
+                </li>
+                <li><button onclick="myFunction('take6')" class="w3-block w3-button w3-indigo">brać pod uwagę</button></li>
+                <li id="take6" class="w3-container w3-hide">
+                    <center>take into account</center>
+                </li>
+                <li><button onclick="myFunction('take7')" class="w3-block w3-button w3-indigo">być podobnym do</button></li>
+                <li id="take7" class="w3-container w3-hide">
+                    <center>take after</center>
+                </li>
+                <li><button onclick="myFunction('take8')" class="w3-block w3-button w3-indigo">opuścić ziemię / zdjąć (ubranie)</button></li>
+                <li id="take8" class="w3-container w3-hide">
+                    <center>take off</center>
+                </li>
+                <li><button onclick="myFunction('take9')" class="w3-block w3-button w3-indigo">zacząć nową aktywność</button></li>
+                <li id="take9" class="w3-container w3-hide">
+                    <center>take up</center>
+                </li>
+            </ul>
+
+        </div>
     </div>
     <footer class="w3-container w3-theme-d5 w3-padding-16">
         ©reated by: Szumimajster
     </footer>
     <script>
-        function myFunction() {
-            var x = document.getElementById("demo");
+        function myFunction(id) {
+            var x = document.getElementById(id);
             if (x.className.indexOf("w3-show") == -1) {
                 x.className += " w3-show";
             } else {
