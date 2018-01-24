@@ -8,8 +8,8 @@ xhr.onload = function() {
             var c = slowoObject.dictionary.length;
             for (var i = 0; i < c; i++) {
                 var x = Math.floor(Math.random() * slowoObject.dictionary.length);
-                newSlowka += '<tr><td class="w3-theme-d3" onclick="myFunction('+"'slowo"+i+"'"+ ')">' + slowoObject.dictionary[x].slowo + "</td></tr>";
-                newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'>"+ slowoObject.dictionary[x].tlumaczenie + "<br>"; 
+                newSlowka += '<tr><td class="w3-theme-d3" onclick="myFunction('+"'slowo"+i+"'"+ ')">' + slowoObject.dictionary[x].tlumaczenie + "</td></tr>";
+                newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'>"+ slowoObject.dictionary[x].slowo + "<br>"; 
                 if( slowoObject.dictionary[x].gerinf == "i")
                     newSlowka += "<b>infinitive</b>"; 
                 else
