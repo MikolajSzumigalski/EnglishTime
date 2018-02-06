@@ -8,8 +8,8 @@ xhr.onload = function() {
             var c = slowoObject.dictionary.length;
             for (var i = 0; i < c; i++) {
                 var x = Math.floor(Math.random() * slowoObject.dictionary.length);
-                newSlowka += '<tr><td onclick="myFunction('+"'slowo"+i+"'"+ ')">' + slowoObject.dictionary[x].slowo + "</td></tr>";
-                newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'><b>"+ slowoObject.dictionary[x].tlumaczenie + "</b><br/>"; 
+                newSlowka += '<tr><td onclick="myFunction('+"'slowo"+i+"'"+ ')">' + slowoObject.dictionary[x].tlumaczenie + "</td></tr>";
+                newSlowka += "<tr><td id='slowo"+i+"' class='w3-hide'><b>"+ slowoObject.dictionary[x].slowo + "</b><br/>"; 
                 newSlowka += slowoObject.dictionary[x].zdanie + "</td></tr>";
                 slowoObject.dictionary.splice(x, 1);
         }
